@@ -11,8 +11,11 @@ Loading spinners and user friendly messages
 React - https://react.dev
 
 Vite - https://vitejs.dev
+
 React Router - https://reactrouter.com
+
 React Bootstrap - https://react-bootstrap.netlify.app
+
 Bootstrap 5 - https://getbootstrap.com
 
 ### Routes
