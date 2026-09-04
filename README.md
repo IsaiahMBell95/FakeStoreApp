@@ -1,16 +1,22 @@
-# React + Vite
+### Isaiah's Store
+A modern e-commerce front-end built with React and styled with Bootstrap features.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features 
+Ability to (add products) via a form using data from API store
+Ability to edit and delete products 
+Full responsive on desktop and mobile devices
+Loading spinners and user friendly messages
 
-Currently, two official plugins are available:
+### Tech Stack
+React - https://react.dec
+Vite - https://vitejs.dev
+React Router - https://reactrouter.com
+React Bootstrap - https://react-bootstrap.netlify.app
+Bootstrap 5 - https://getbootstrap.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Routes
+Navbar - Allows you to access different pages of the site
+"/" HomePage - Contains hero section introducing the site with buttons that take you to other pages
+"/products" Products - Grid of all products with product categories
+"/productdetail/:id" ProductDetail - Full detail view with add to cart/delete/edit actions
+"/addproducts" AddProduct - Form to create new product 
