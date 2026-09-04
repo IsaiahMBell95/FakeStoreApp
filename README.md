@@ -8,7 +8,8 @@ Full responsive on desktop and mobile devices
 Loading spinners and user friendly messages
 
 ### Tech Stack
-React - https://react.dec
+React - https://react.dev
+
 Vite - https://vitejs.dev
 React Router - https://reactrouter.com
 React Bootstrap - https://react-bootstrap.netlify.app
